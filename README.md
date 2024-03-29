@@ -1,4 +1,4 @@
-<img src="Black and White Creative Profile Information LinkedIn Article Cover Image.png" widht="500">
+
 <h1 align="center">Hi 👋, I'm Prathamesh Pichkate</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
@@ -15,6 +15,7 @@
 - ⚡ Fun fact **Chatting with strangers boosts mood and broadens horizons!**
   
 <img src="coding.gif" align="right" width="400">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prathamesh_p128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh_p128" height="30" width="40" /></a>
