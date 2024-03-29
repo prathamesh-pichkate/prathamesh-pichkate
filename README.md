@@ -1,3 +1,4 @@
+<img src="photo.jpeg">
 <h1 align="center">Hi 👋, I'm Prathamesh Pichkate</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
