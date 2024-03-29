@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Pichkate</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
-<img src="coding.gif" align="right" width="400">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh-pichkate" alt="prathamesh-pichkate" /></a> </p>
 
 - 🌱 I’m currently studying in 2nd year at **Savitribai Phule Pune University.**
@@ -14,7 +13,8 @@
 - 📫 How to reach me **prathameshpichkate@gmail.com**
 
 - ⚡ Fun fact **Chatting with strangers boosts mood and broadens horizons!**
-
+  
+<img src="coding.gif" align="right" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prathamesh_p128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh_p128" height="30" width="40" /></a>
