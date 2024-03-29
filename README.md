@@ -1,4 +1,4 @@
-<img src="photo.jpeg">
+<img src="Black and White Creative Profile Information LinkedIn Article Cover Image" widht="500">
 <h1 align="center">Hi 👋, I'm Prathamesh Pichkate</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
